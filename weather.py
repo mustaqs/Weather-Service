@@ -3,12 +3,6 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
-#@app.route('/auth')
-#def userAuth():
- #   user = request.args.get('u')
-  #  password = request.args.get('p')
-   # if user != "tester" and password != "password":
-    #   return f'Invalid user. Please try again'
 
 @app.route('/city')
 def searchCity():
