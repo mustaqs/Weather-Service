@@ -1,5 +1,5 @@
-# Weather Service
-Python Weather Service that displays weather for San Diego and Tel Aviv. A simple user authorization is also required.
+# Weather API
+Python Weather Web Service that displays weather for San Diego and Tel Aviv. A simple user authorization is also required.
 
 ## Clone
 Clone the github repo:
